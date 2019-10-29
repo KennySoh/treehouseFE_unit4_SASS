@@ -42,8 +42,8 @@
   - The use of mixins to adhere to DRY concepts
 ***
 
-To explore the project visit the Github Page: https://kennysoh.github.io/treehouse_unit4_SASS/
+To explore the project visit the Github Page: https://kennysoh.github.io/treehouseFE_unit4_SASS/
 
 ## A sample of the project
-|![images](https://github.com/KennySoh/treehouse_unit3_Responsive_Registration_Form/blob/master/sample-pic1.png) |
+|![images](https://github.com/KennySoh/treehouseFE_unit4_SASS/blob/master/sample-pic.png) |
 
