@@ -1,5 +1,5 @@
 # A Web Style Guide & The use of Sass. 
-A style guide are used defined the look and feel of user interface elements on a site. Sass is used to streamline the css creation. 
+A style guide is used defined the look and feel of user interface elements on a site. Sass is used to streamline the css creation. 
 
 ***
 - SASS
